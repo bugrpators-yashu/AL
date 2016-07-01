@@ -14,6 +14,7 @@
       <class name="commonClassesReusable.ByXpath"/>
       <class name="commonClassesReusable.ByLinkText"/>
       <class name="commonClassesReusable.ByPartialLinkText"/>
+   <class name="commonClassesReusable.ByPartialLinkText1"/>
     </classes>
   </test> <!-- Apexlink -->
 </suite> <!-- Suite -->
