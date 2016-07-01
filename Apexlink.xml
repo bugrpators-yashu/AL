@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Apexlink">
+    <classes>
+      <class name="commonClassesReusable.ByName"/>
+      <class name="commonClassesReusable.ReadDataFromPropertiesFile"/>
+      <class name="commonClassesReusable.ByID"/>
+      <class name="commonClassesReusable.CreateEmptyFolder"/>
+      <class name="commonClassesReusable.ByClassName"/>
+      <class name="commonClassesReusable.ByCssSelector"/>
+      <class name="Saas.SaasCommonTestCase"/>
+      <class name="Saas.DashboardClass"/>
+      <class name="commonClassesReusable.ByXpath"/>
+      <class name="commonClassesReusable.ByLinkText"/>
+      <class name="commonClassesReusable.ByPartialLinkText"/>
+    </classes>
+  </test> <!-- Apexlink -->
+</suite> <!-- Suite -->
