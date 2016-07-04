@@ -21,7 +21,7 @@ import commonClassesReusable.GetCurrentWorkingDir;
 
 
 public class PlanClass {
-
+//comment
 	@Test
 	public void beforeSuite() {
 		System.out.println("Current dir: "+GetCurrentWorkingDir.getWorkingDirLocation());
