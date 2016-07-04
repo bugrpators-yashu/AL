@@ -22,7 +22,7 @@ import commonClassesReusable.GetCurrentWorkingDir;
 
 public class PlanClass {
 //comment
-//comment2
+//comment2sdf
 //comment2
 	@Test
 	public void beforeSuite() {
