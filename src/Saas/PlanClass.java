@@ -21,7 +21,6 @@ import commonClassesReusable.GetCurrentWorkingDir;
 
 
 public class PlanClass {
-//comment1
 
 	@Test
 	public void beforeSuite() {
